@@ -1,5 +1,4 @@
 import Image from "@/comp/ImageComp";
-import { SkeleItem, useSkeletonContext } from "@/comp/Skeleton";
 import { IPost } from "@/data/post.data";
 import { cn } from "@/lib/utils";
 

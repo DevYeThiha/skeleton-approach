@@ -1,6 +1,5 @@
 "use client";
 
-import Skeleton from "@/comp/Skeleton";
 import useFetchPost from "@/hooks/useFetchPost";
 import PostComp from "./PostComp";
 import PostSkeleton from "./PostSkel";
